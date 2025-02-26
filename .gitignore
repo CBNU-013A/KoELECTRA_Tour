@@ -1,3 +1,6 @@
-Dataset/bio_tagged_data.json
-Dataset/ner_results.json
-Dataset/synthetic.json
+Data/01_*
+Data/02_*
+Data/03_*
+Data/04_*
+Data/05_*
+Data/06_*
