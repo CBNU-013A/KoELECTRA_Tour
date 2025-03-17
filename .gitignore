@@ -6,3 +6,4 @@ Finetuning/NER/ckpt/
 Finetuning/NER/training_args.bin
 tmp/
 Models/
+result/
