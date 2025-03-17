@@ -1,6 +1,8 @@
-Data/01_*
-Data/02_*
-Data/03_*
-Data/04_*
-Data/05_*
-Data/06_*
+Test/
+data/Testing/
+data/NER/cached*
+Finetuning/NER/output/
+Finetuning/NER/ckpt/
+Finetuning/NER/training_args.bin
+tmp/
+Models/
